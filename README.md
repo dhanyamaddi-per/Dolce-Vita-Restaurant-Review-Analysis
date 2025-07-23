@@ -24,7 +24,6 @@ This project analyzes customer reviews of Dolce Vita, a restaurant, to gain insi
 - `Data_Cleaning.py` – Further preprocessing: location parsing, date formatting, text normalization.
 - `Dolce Vita Reviews.csv` – Raw customer review dataset.
 - `Cleaned_Dolche_Vita_Reviews.csv` – Final cleaned version used for sentiment analysis.
-- `FinalProjectPaper_Team9_AIT582.pdf` – Full project report with methodology, analysis, and visual results.
 
 ---
 
